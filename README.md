@@ -1,2 +1,6 @@
 # Online-Women-Helpline
-A website designed to safeguard the women rights and their safety, with customized consoles for the Victim, Law Enforcement authority and the admin. 
+Tools Used: 
+Front End – JavaScript, CSS, HTML, AJAX 
+Back End – MySQL, JSP, Servlet(Java)
+Development Model- MVC
+
